@@ -1,0 +1,83 @@
+country_nm,cntry_numeric_cd,cntry_alpha_cd
+Argentina,12,ARG
+Australia,14,AUS
+Austria,15,AUT
+Bahamas,21,BHS
+Behrain,17,BHR
+Belgium,16,BEL
+Belize,10,BLZ
+Bermuda,18,BMU
+Bolivia,19,BOL
+Brazil,20,BRA
+British Virgin Islands,13,VGB
+Canada,9,CAN
+Cayman Islands,23,CYM
+Chile,22,CHL
+Colombia,24,COL
+Congo,25,COG
+Denmark,26,DNK
+Dominican Republic,27,DOM
+Ecuador,28,ECU
+Egypt,29,EGY
+El Salvador,30,SLV
+England (England and Northern Ireland),31,GBR
+Ethiopia,32,ETH
+Finland,34,FIN
+France,35,FRA
+Germany,36,DEU
+Ghana,37,GHA
+Greece,39,GRC
+Guatamala,33,GTM
+Honduras,41,HND
+Hong Kong,40,HKG
+Hungary,43,HUN
+Iceland,42,ISL
+India,44,IND
+Indonesia,45,IDN
+Iran,46,IRN
+Israel,49,IRL
+Italy,50,ITA
+Japan,52,JPN
+Jordan,51,JOR
+Kenya,55,KEN
+Kuwait,58,KWT
+Lebanon,59,LBN
+Liberia,61,LBR
+Lichtenstein,63,LIE
+Luxembourg,60,LUX
+Malaysia,62,MYS
+Mexico,64,MEX
+Monaco,65,MCO
+Morocco,66,MAR
+Netherland Antilles,67,ANT
+Netherlands,68,NLD
+New Zealand,69,NZL
+Nigeria,71,NGA
+Norway,70,NOR
+Pakistan,72,PAK
+Panama,74,PAN
+People’s Republic of China,11,CHN
+Peru,75,PER
+Philippines,76,PHL
+Poland,81,POL
+Portugal,77,PRT
+Republic of Ireland,48,IRL
+Republic of South Korea,56,KOR
+Saudi Arabia,80,SAU
+Scotland,82,SCT
+Singapore,84,SGP
+South Africa,85,ZAF
+Spain,86,ESP
+Sweden,88,SWE
+Switzerland,89,CHE
+Taiwan,90,TWN
+Thailand,92,THA
+Turkey,94,TUR
+United Arab Emirates,93,ARE
+United States,0,USA
+Uruguay,95,URY
+Venezuela,96,VEN
+West Indies,97,WID
+Zaire,98,COD
+Zambia,99,ZMB
+Zimbabwe,79,ZWE
