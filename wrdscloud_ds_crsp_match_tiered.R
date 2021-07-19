@@ -354,7 +354,7 @@ multivar_match_results <- merge_plus(unique_ds_nomatch, unique_crsp,
     logit = logit_est, missing = F, wgts = NULL,
     compare_type = c("stringdist", "indicator", "indicator", "indicator", "indicator"),
     blocks = NULL, blocks.x = NULL, blocks.y = NULL,
-    top = 1, threshold = .90, nthread = 22
+    top = 1, threshold = .90, nthread = 6
   )
 )
 
