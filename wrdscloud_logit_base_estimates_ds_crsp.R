@@ -13,7 +13,7 @@ setwd("~/ds_matching/")
 
 # FACILITY DATA ----------------------------------------------------------------
 # leftover variables that aren't in WRDS
-facility_tbl <- tbl(wrds, "facility")
+facility_tbl <- tbl(wrds, in_schema("dealscan", "facility"))
 ds_facility <- facility_tbl %>%
   select(
     FacilityID = facilityid,
@@ -41,7 +41,7 @@ ds_facility <- facility_tbl %>%
 
 # PACKAGE DATA -----------------------------------------------------------------
 
-package_tbl <- tbl(wrds, "package")
+package_tbl <- tbl(wrds, in_schema("dealscan", "package"))
 ds_package <- package_tbl %>%
   select(
     PackageID = packageid,
